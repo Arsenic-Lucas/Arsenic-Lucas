@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+<img height="120" alt="Merci de ton passage (:" width="100%" src="https://raw.githubusercontent.com/heckair/heckair/20ee95399089c9940043356fbf6a13e240e6f07a/slider.svg" />
+<br />
+<img src="https://cdn.discordapp.com/attachments/835888981425651782/982611186526871582/floppahecker-modified.png" alt="Site created with Notepad" height="30" />
+
+![](https://komarev.com/ghpvc/?username=heckair)
+</div>
